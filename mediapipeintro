@@ -1,0 +1,20 @@
+# MediaPipe is a Framework for building machine learning pipelines for processing time-series data like video, audio, etc.
+
+# developed by google 
+# intially deveoped for real time anakyis of video and audio of utube.
+
+
+# now also used ofr Perception system in NestCam
+Object detection by Google Lens
+Augmented Reality Ads
+Google Photos
+Google Home
+Gmail
+Cloud Vision API, etc. 
+
+## Applications
+
+Human pose estimation(ai fitness tracker)
+Driver Drowsiness Detection
+Video Call Experience Enhancements(gesture ctrl)
+Designing Snapchat and Instagram Filters
